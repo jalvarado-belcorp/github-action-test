@@ -1,0 +1,33 @@
+name: Ali
+age: 28
+address: 'dwhui: asdaas'
+active: true
+acteq: safs
+Key:
+    Key: value
+    key2: 33
+    Key3:
+        Key: value
+        Key2: value
+jsonObject:
+    Key: value
+    Key2: 33
+    Key3:
+        Key: value
+        Key2: value
+array:
+    - item1
+    - item2
+    -
+        Key: value
+jsonArray:
+    - item1
+    - item2
+objectArray:
+    -
+        Key: value
+        Key2: value2
+    -
+        key: value
+        Key2: value2
+longText: "askaskgasklnglkasngklasnglkasng laksnglkasnglkasnglkasnglkasnglkasnglkasng lkasnglkasnglaks\n"
